@@ -1,6 +1,6 @@
 {
-  "name": "@ftbl/users",
-  "version": "0.0.0",
+  "name": "@recipher/users",
+  "version": "1.0.0",
   "description": "System-level users",
   "main": "node index",
   "scripts": {
@@ -14,14 +14,14 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git@github.com:projectftbl/users.git"
+    "url": "git@github.com:recipher/users.git"
   },
   "dependencies": {
-    "@ftbl/configuration": "^1.0.1",
+    "@recipher/configuration": "^1.0.1",
     "lodash": "^3.10.1"
   },
   "devDependencies": {
-    "@ftbl/gulp": "^1.0.0",
+    "@recipher/gulp": "^1.0.0",
     "chai": "^3.4.1",
     "gulp": "^3.9.0",
     "mocha": "^2.3.4",
