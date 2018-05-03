@@ -1,2 +1,2 @@
-## @ftbl/users
+## @recipher/users
 
